@@ -1,6 +1,6 @@
 //hello world program
 #include <stdio.h>
-
+#include <stdlib.h>
 char *names[10] = {
     "Alice",
     "Bob",
